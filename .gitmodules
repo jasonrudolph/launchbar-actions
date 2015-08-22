@@ -4,3 +4,6 @@
 [submodule "submodules/actions-by-heikowitte"]
 	path = submodules/actions-by-heikowitte
 	url = https://github.com/heikowitte/LaunchBarActions
+[submodule "actions-by-prenagha"]
+	path = submodules/actions-by-prenagha
+	url = https://github.com/prenagha/launchbar.git
