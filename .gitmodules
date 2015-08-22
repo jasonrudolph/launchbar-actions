@@ -7,3 +7,6 @@
 [submodule "actions-by-prenagha"]
 	path = submodules/actions-by-prenagha
 	url = https://github.com/prenagha/launchbar.git
+[submodule "submodules/actions-by-hlissner"]
+	path = submodules/actions-by-hlissner
+	url = https://github.com/hlissner/lb6-actions.git
