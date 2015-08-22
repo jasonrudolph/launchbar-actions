@@ -10,3 +10,6 @@
 [submodule "submodules/actions-by-hlissner"]
 	path = submodules/actions-by-hlissner
 	url = https://github.com/hlissner/lb6-actions.git
+[submodule "submodules/actions-by-mlinzner"]
+	path = submodules/actions-by-mlinzner
+	url = https://github.com/mlinzner/LaunchBarActions.git
