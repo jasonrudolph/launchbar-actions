@@ -1,0 +1,3 @@
+[submodule "submodules/actions-by-atika"]
+	path = submodules/actions-by-atika
+	url = https://github.com/atika/LaunchBar-Actions.git
