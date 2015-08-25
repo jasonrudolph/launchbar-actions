@@ -1,6 +1,6 @@
 [submodule "submodules/actions-by-atika"]
 	path = submodules/actions-by-atika
-	url = https://github.com/atika/LaunchBar-Actions.git
+	url = https://github.com/jasonrudolph/launchbar-actions.git
 [submodule "submodules/actions-by-heikowitte"]
 	path = submodules/actions-by-heikowitte
 	url = https://github.com/heikowitte/LaunchBarActions
