@@ -13,3 +13,6 @@
 [submodule "submodules/actions-by-mlinzner"]
 	path = submodules/actions-by-mlinzner
 	url = https://github.com/mlinzner/LaunchBarActions.git
+[submodule "submodules/github.lbaction"]
+	path = submodules/github.lbaction
+	url = https://github.com/bswinnerton/github.lbaction.git
