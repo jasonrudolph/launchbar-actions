@@ -10,6 +10,7 @@ A collection of [LaunchBar actions][actions] that I find particularly useful.
 - [Get Public IP](https://github.com/heikowitte/LaunchBarActions/tree/ffe51d0) by [@heikowitte](https://github.com/heikowitte)
 - [GitHub](https://github.com/bswinnerton/github.lbaction) by [@bswinnerton](https://github.com/bswinnerton)
 - [Keyboard Maestro Macros](https://github.com/mlinzner/LaunchBarActions/tree/f9fb172/actions/Keyboard%20Maestro) by [@mlinzner](https://github.com/mlinzner)
+- [Sonos Controls](https://github.com/jasonrudolph/launchbar-sonos-actions) by [@jasonrudolph](https://github.com/jasonrudolph)
 - [Switch Audio](http://prenagha.github.io/launchbar/audio.html) by [@prenagha](https://github.com/prenagha)
 
 ### Installation

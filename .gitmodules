@@ -16,3 +16,6 @@
 [submodule "submodules/github.lbaction"]
 	path = submodules/github.lbaction
 	url = https://github.com/bswinnerton/github.lbaction.git
+[submodule "jasonrudolph-launchbar-sonos-actions"]
+	path = submodules/jasonrudolph-launchbar-sonos-actions
+	url = https://github.com/jasonrudolph/launchbar-sonos-actions
